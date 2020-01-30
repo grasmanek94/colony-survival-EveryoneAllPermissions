@@ -1,0 +1,22 @@
+[
+	{
+		"compatibleversions": [
+			"0.7.1"
+		],
+		"enabled": true,
+		"marksgamemodded": false,
+		"name": "grasmanek94.EveryoneAllPermissions",
+		"version": "0.0.1",
+		"website": "https://github.com/grasmanek94/colony-survival-EveryoneAllPermissions",
+		"about": "Gives all players all permissions",
+		"patchnotes": [
+			{
+				"version": "0.0.1.0",
+				"notes": [
+					"Initial Release"
+				]
+			}
+		],
+		"dllpath": "grasmanek94.EveryoneAllPermissions.dll"
+	}
+]
